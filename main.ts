@@ -5,4 +5,4 @@
  * This program makes the microbit state 'Hello, World!'
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Daniel')
