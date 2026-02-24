@@ -2,7 +2,7 @@
  *
  * Created by: Daniel John Brushett
  * Created on: 02/03/26
- * This program makes the microbit state 'Hello, Daniel!'
+ * This program makes the microbit state temperature
 */
 
 let currentTemperatureCelcius: number
